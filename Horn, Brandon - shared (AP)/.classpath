@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="chapter02"/>
+	<classpathentry kind="src" path="chapter03"/>
+	<classpathentry kind="src" path="chapter04"/>
+	<classpathentry kind="src" path="chapter05"/>
+	<classpathentry kind="src" path="chapter06"/>
+	<classpathentry kind="src" path="chapter07 (new)"/>
+	<classpathentry kind="src" path="chapter08"/>
+	<classpathentry kind="src" path="chapter09 (new)"/>
+	<classpathentry kind="src" path="chapter09 (old)"/>
+	<classpathentry kind="src" path="chapter10 (new)"/>
+	<classpathentry kind="src" path="chapter10 (old)"/>
+	<classpathentry kind="src" path="chapter13 (new)"/>
+	<classpathentry kind="src" path="chapter19"/>
+	<classpathentry kind="src" path="magpie_lab"/>
+	<classpathentry kind="src" path="pictures_lab"/>
+	<classpathentry kind="src" path="blackjack"/>
+	<classpathentry kind="src" path="encryption"/>
+	<classpathentry kind="src" path="gridworld"/>
+	<classpathentry kind="src" path="hornBat"/>
+	<classpathentry kind="src" path="elevens_lab"/>
+	<classpathentry kind="src" path="wordsearch"/>
+	<classpathentry kind="lib" path="libraries/gridworld.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/3"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
